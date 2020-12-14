@@ -7,12 +7,12 @@ body {
 }
 
 .header {
-    padding: 2em;
+    padding: 32px;
     margin: 0;
     text-align: center;
     font-size: 30px;
-    collor: whitesmoke;
-    background-image: url(../afb/Kerstmenu.jpeg)
+    color: whitesmoke;
+    background-image: url(../afb/Kerstmenu.jpeg);
     background-position: center;
 }
 
